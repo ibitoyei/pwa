@@ -1,0 +1,93 @@
+{
+  "background_color": "#ffffff",
+  "description": "Systems is an operating container for online services that are necessary to humanity, it contains major sections like business (transactions), transport, platform and others.",
+  "dir": "auto",
+  "display": "standalone",
+  "name": "Systems",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "short_name": "Systems",
+  "start_url": "https://systems-x.page.name.ng/start.html",
+  "theme_color": "#eede33",
+  "categories": [
+    "business",
+    "lifestyle",
+    "productivity",
+    "utilities"
+  ],
+  "screenshots": [
+  {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQLZE-MipxLbOe-bqUnUFazEeTUD5VE_1R8r0zy5RRVOwEti2h8VABgtDbDxNNRsDuusCZ3_gQvBwurJ0-8Rxej0Tj2XbAO1gSsKKIF6aMmnxejkjpW24XhGcWvHVQi9wsZRmtiQ7EaoKvtXrluMn1c6MSdTLcwWQVTiII1-uQKlAza3ror0PEsXvL/s1600/Screenshot_20221123-182712_Brave.jpg",
+    "sizes": "any",
+    "type": "image/jpg",
+    "platform": "wide",
+  },
+
+  {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6lUFw_bOqyiug3r14AKSQmJ4t2ernzOQsuRz8nn38E2O2-LyhZOj7yuP2mA6zw6OER-BBZxPpVqokJ7m6lrqjbBnM4sZ3JtF53CraXKc3Ex7JOy8jTA2VGBO4z50T11qv6an_Re4-GxFNEEJvUPy_g3eCTJ3qwR16S6lpM1jyzpi7zSTxfzKeABhP/s1600/Screenshot_20221123-182726_Brave.jpg",
+    "sizes": "any",
+    "type": "image/jpg",
+    "platform": "wide",
+  },
+
+  {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitPb0-YD5cf3hvK4jAqW47ygSp63WIfOViU53dAaPGP1lgeWFs8OF3gCL6C_0Y-UfgTC-4w1C-bFFKTVYPojIusx42unpLuonPUCwhRyEarJFZL9s4qUIyeepno-ENmLhe5InpskwsUKUJG1JYszi9XxVQuOro6w9H2-zpGytRLVMbcQpwDt5OG22G/s1600/Screenshot_20221123-182736_Brave.jpg",
+    "sizes": "any",
+    "type": "image/jpg",
+    "platform": "wide",
+  },
+
+  {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAtb2tRd5iyIP92PvQKZPx0wF8GdQ7ebUCM0VhUG0Z5O6lr9e9PB4WJB39eNJTp4jvkhvxDdmrVI3g6Fbq3X7EXkT7Jbi-n_YohUgxBifmzVkO2HK2hntSE3PlBqxoyOwMIjVQJfCSbZL8rSCE5-omHi4mZHMJFq5qEVQuz2_sgDqHoWc-epN6LSZ-/s1600/Screenshot_20221123-182747_Brave.jpg",
+    "sizes": "any",
+    "type": "image/jpg",
+    "platform": "wide",
+  },
+
+  {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6kbqpmxBXmIu4SVBUyTn7IrLirMbw1Pdr9WBKU6peLgVBzHv5H5qOdzw2as331M7KSJ-uYE6GTeqyV_zGV1UeRDtytVZlmqf0UWQMi6MITawGya6520RaVGSPiXOpbZFFmq-ldwEEN0Vd_QYX5ksSPq0oVH5g1VEfm6gYmXm4UDJJ4C1jIUeMwX5W/s1600/Screenshot_20221123-182918_Brave.jpg",
+    "sizes": "any",
+    "type": "image/jpg",
+    "platform": "wide",
+  },
+
+  {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDUWqbURz2OJAtsK8LrOfOwAn8eX4M2i_Sh31Xk4odQpMwYvrmnveMebHhwHnlLHzKst7KdtNNqOnskg9-PeoVSj19-c9X2iXGQyR7ycMP2thDMxQfQbXaiGpBg8oiRCT5J3B2XDTQv6JFRHe53UEZtM_6OWmDT-KZIz8HfUSfGc8-MlbmQ5BJBWxC/s1600/Screenshot_20221123-182948_Brave.jpg",
+    "sizes": "any",
+    "type": "image/jpg",
+    "platform": "wide",
+  },
+
+  {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjT0KVJhjJK8OYUjqPrZjq1GayPNcSWUIwd4XNbW7t2nhQ0sebOKaNpcCKOl7NkwtdPlUhLPgRKMjZP1huyzy_ZVCd1Rdp1hlJhfznSmmfA77b_iM46LKFvVThPwy7qQnRQsD9Y0V4ToTpbUVz7WKW8MVEpZrgMtClkLvwIfDh6k_t0LeCJme0K2n6_/s1600/Screenshot_20221123-183010_Brave.jpg",
+    "sizes": "any",
+    "type": "image/jpg",
+    "platform": "wide",
+  },
+
+  {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEIm3cMMFTp41CA1xXj2aixRctvy6Dy1RTsVwEvvXQdkWXxRrzslt4dqeAt7wZ2CqiFZA1UJhuh__UKckyNQ6SPnKpLBTHbNK7xChibH-1FfpTD91e_uLcZWt5PKMeqLfJpjvU03J6uVBGSGnOHyQoXthTf_gK9vEFmUDD2avJ5j1nIST7p2qyewZS/s1600/Screenshot_20221123-183441_Systems.jpg",
+    "sizes": "any",
+    "type": "image/jpg",
+    "platform": "wide",
+  }
+
+],
+ "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5XT-WOdDoMTJ-YjJpyDmYNscCTe-jJa9ZAyCnqEZ28yVZ0MibBsHZgUSCRUOcFruEoxjrC1hxS_SKuW5LgswlbF2gfDlgRT7Sk6fIQe1gXatJ09oKsYnex86ti1mi-vaoX_s01vhdMUov0zUWkkQsB-esFBY8tOx3ESTNpHA8pOSnfzDS2WgHZMDK/s1600/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeuvqq1RNtJ_5eXaKUFY2Mz9x9mJ2xailLxIxnwZXc5_ixVbZZnN1P7cwDCPzDbLSjObMNf817W2uf6Unh2XMhgGsoEvVW2oAe1Z69p-Lmn9MYeNdlmzjuk3PvMw23ku0UdgRaYdzotRy96DKZ2F6Vumsf1OqUHYjG3GyMGk5TKRl4O1dqhc5DKRAx/s1600/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+],
+  "shortcuts": [],
+  "lang": "en",
+  "prefer_related_applications": false
+}
