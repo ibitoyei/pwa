@@ -78,13 +78,13 @@
             "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5XT-WOdDoMTJ-YjJpyDmYNscCTe-jJa9ZAyCnqEZ28yVZ0MibBsHZgUSCRUOcFruEoxjrC1hxS_SKuW5LgswlbF2gfDlgRT7Sk6fIQe1gXatJ09oKsYnex86ti1mi-vaoX_s01vhdMUov0zUWkkQsB-esFBY8tOx3ESTNpHA8pOSnfzDS2WgHZMDK/s1600/android-chrome-192x192.png",
             "sizes": "192x192",
             "type": "image/png",
-            "purpose": "any"
+            "purpose": "any maskable"
         },
         {
             "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeuvqq1RNtJ_5eXaKUFY2Mz9x9mJ2xailLxIxnwZXc5_ixVbZZnN1P7cwDCPzDbLSjObMNf817W2uf6Unh2XMhgGsoEvVW2oAe1Z69p-Lmn9MYeNdlmzjuk3PvMw23ku0UdgRaYdzotRy96DKZ2F6Vumsf1OqUHYjG3GyMGk5TKRl4O1dqhc5DKRAx/s1600/android-chrome-512x512.png",
             "sizes": "512x512",
             "type": "image/png",
-            "purpose": "maskable"
+            "purpose": "any maskable"
         }
 ],
   "shortcuts": [],
